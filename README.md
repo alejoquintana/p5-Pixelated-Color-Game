@@ -1,3 +1,4 @@
+
 # Pixelated Color Game
 
 Juego inspirado en un minijuego de celulares antiguo, donde el objetivo en contagiar todos los cuadrados alrededor a travez de la combinacion de colores.
